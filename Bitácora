@@ -1,0 +1,2 @@
+16/Junio/2019: se trató de instalar cl-asdf para instalar Hunchentoot pero dpkg regresaba error 1 con dependencias faltantes de 
+emacs25 por lo que se aplicó el método 4 del artículo siguiente: https://itsfoss.com/dpkg-returned-an-error-code-1/
