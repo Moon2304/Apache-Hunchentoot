@@ -1,19 +1,7 @@
-Instalar Emacs: sudo apt-get install emacs
+18/junio/2019
+Instrucciones: http://newartisans.com/2007/11/running-common-lisp-behind-apache/?fbclid=IwAR0wDzzlCIM0m39KNDqJvoQ-hDHYajQgeyGe5dESOEypAGJhjr5elX1De0A
+sbcl: http://www.sbcl.org/getting.html
+Quicklisp: https://www.quicklisp.org/beta/
+CL-WHO: https://edicl.github.io/cl-who/#install
+Hunchentoot: https://edicl.github.io/hunchentoot/
 
-Instalar sbcl: sudo apt-get install sbcl
-
-Instalar slime: sudo apt-get install slime
-
-Unir Emacs, sbcl y slime: https://carlo-hamalainen.net/2011/09/19/emacs-slime-sbcl-setup/
-
-Instalar apache: https://www.digitalocean.com/community/tutorials/como-instalar-el-servidor-web-apache-en-ubuntu-18-04-es
-sudo apt-get install apache2-dev
-
-Instalar Hunchentoot: https://ubuntu.pkgs.org/16.04/ubuntu-universe-i386/cl-hunchentoot_1.2.34+dfsg-1_all.deb.html
-
-mod_lisp: http://www.fractalconcept.com/asp/Vefi/sdataQIM1C1xjSGA7DM==/BefisdataQuqh-N3qe0jUC1B=
-
-
-https://common-lisp.net/~sionescu/hunchentoot-0.15.7/doc/#install
-
-https://es.switch-case.com/52107381
