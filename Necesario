@@ -1,9 +1,4 @@
-18/junio/2019
-Instrucciones: http://newartisans.com/2007/11/running-common-lisp-behind-apache/?fbclid=IwAR0wDzzlCIM0m39KNDqJvoQ-hDHYajQgeyGe5dESOEypAGJhjr5elX1De0A
-sbcl: http://www.sbcl.org/getting.html
-Quicklisp: https://www.quicklisp.org/beta/
-CL-WHO: https://edicl.github.io/cl-who/#install
-Hunchentoot: https://edicl.github.io/hunchentoot/
-ASDF-install: https://common-lisp.net/project/asdf-install/tutorial/index-save.html
-
-Archivo de inicialización sbcl: /etc/sbclrc
+26/junio/2019
+sbcl: http://www.sbcl.org/getting.html Versión 1.5.3
+Quicklisp: https://www.quicklisp.org/beta/ 
+Hunchentoot: (ql:quickload "hunchentoot") Version 1.2.38
